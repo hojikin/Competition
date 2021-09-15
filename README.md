@@ -1,4 +1,4 @@
-Kaggle-Solution
+competition
 ===============
 
-This project  contain my code for competition in kaggle.
+This project  contain my code for competition.
